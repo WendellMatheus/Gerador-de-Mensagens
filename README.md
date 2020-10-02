@@ -1,6 +1,6 @@
 # Gerador de Mensagens Motivacional 
 
-💻 **Desafio de um _gerador de mensagens_ realizado no curso de Front-end do Start LATAM 2020.**
+💻 **Desafio de um _Gerador de Mensagens_ realizado no curso de Front-end do Start LATAM 2020.**
 
 🚀 _Tecnologias_
 
