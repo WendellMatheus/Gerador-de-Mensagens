@@ -4,4 +4,4 @@
 
 🚀 _Tecnologias_
 
-**_HTML5_** | **_CSS3_** | **_JavaScript_*
+**_HTML5_** | **_CSS3_** | **_Java*Script_**
